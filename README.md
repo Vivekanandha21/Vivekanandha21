@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm A Passionate Techie With Hands-On Experience As An AS400 System Administrator At IBM/Kyndryl, Where I Managed Mission-Critical Internal And Finance-Related Projects Focusing On System Stability, Compliance, And Operations. My Journey Has Given Me A Strong Foundation In Enterprise Infrastructure And Monitoring, And I'm Now Channeling That Expertise Into Devops—Bridging The Gap Between Operations And Automation.
+I'm A Passionate Techie With Hands-On Experience As An AS400 System Administrator At IBM/Kyndryl, Where I Managed Mission-Critical Internal And Finance-Related Projects Focusing On System Stability, Compliance, and Operations. My Journey Has Given Me A Strong Foundation in Enterprise Infrastructure and Monitoring, And I'm Now Channeling That Expertise Into Devops—Bridging The Gap Between Operations and Automation.
 
 ---
 
@@ -16,13 +16,15 @@ I'm A Passionate Techie With Hands-On Experience As An AS400 System Administrato
 *IBM / Kyndryl*
 
 - Monitored COB/EOD Processes, Ensuring Timely And Successful Batch Job Executions
-- Performed Daily Health Checks On CPU, Memory, Disk Space, And Job Queues
-- Applied System Patches, Managed OS Installations, And Conducted Migrations With Minimal Downtime
-- Managed System Backups, Verified Recoveries, And Implemented Disaster Recovery Strategies
+- Performed Daily Health Checks On CPU, Memory, Disk Space, and Job Queues
+- Applied System Patches, Managed OS Installations, and Conducted Migrations With Minimal Downtime
+- Managed System Backups, Verified Recoveries, and Implemented Disaster Recovery Strategies
 - Oversaw User Access, Audited Privileges, Maintained Security Compliance
-- Documented Configurations, Procedures, And Incident Management
-- Collaborated With Cross-Functional Teams To Support Complex Projects
-- Maintained Strict Adherence To Slas And Efficient Incident Resolution
+- Documented Configurations, Procedures, and Incident Management
+- Collaborated With Cross-Functional Teams to Support Complex Projects
+- Managed Incidents and Change Requests Via ServiceNow, Handled System Backups, and Ensured Strict SLA Compliance in Support of IT Operations.
+
+
 
 > **Key Takeaway:** Developed Expertise In Managing Mission-Critical Systems, Troubleshooting, And Enterprise IT Operations—Skills I’m Now Applying In Devops.
 
