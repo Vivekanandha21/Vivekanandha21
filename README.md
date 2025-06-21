@@ -1,12 +1,12 @@
-# 👋 Hi There, I'm Vivekanandha R!
+# 👋 Hi, I'm Vivekanandha R!
 
-**B.Tech (IT) Graduate | Ex-IBM/Kyndryl AS400 System Administrator | Aspiring DevOps Engineer**
+**B.Tech (IT) graduate | Ex-IBM/Kyndryl AS400 System Administrator | Aspiring DevOps Engineer**
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate techie with hands-on experience as an AS400 System Administrator at IBM/Kyndryl, where I managed mission-critical internal and finance-related projects focusing on system stability, compliance, and operations. My journey has given me a strong foundation in enterprise infrastructure and monitoring, and I'm now channeling that expertise into DevOps—bridging the gap between operations and automation.
+I'm A Passionate Techie With Hands-On Experience As An AS400 System Administrator At IBM/Kyndryl, Where I Managed Mission-Critical Internal And Finance-Related Projects Focusing On System Stability, Compliance, And Operations. My Journey Has Given Me A Strong Foundation In Enterprise Infrastructure And Monitoring, And I'm Now Channeling That Expertise Into Devops—Bridging The Gap Between Operations And Automation.
 
 ---
 
@@ -15,45 +15,45 @@ I'm a passionate techie with hands-on experience as an AS400 System Administrato
 **AS400 System Administrator**  
 *IBM / Kyndryl*
 
-- Monitored COB/EOD processes, ensuring timely and successful batch job executions
-- Performed daily health checks on CPU, memory, disk space, and job queues
-- Applied system patches, managed OS installations, and conducted migrations with minimal downtime
-- Managed system backups, verified recoveries, and implemented disaster recovery strategies
-- Oversaw user access, audited privileges, maintained security compliance
-- Documented configurations, procedures, and incident management
-- Collaborated with cross-functional teams to support complex projects
-- Maintained strict adherence to SLAs and efficient incident resolution
+- Monitored COB/EOD Processes, Ensuring Timely And Successful Batch Job Executions
+- Performed Daily Health Checks On CPU, Memory, Disk Space, And Job Queues
+- Applied System Patches, Managed OS Installations, And Conducted Migrations With Minimal Downtime
+- Managed System Backups, Verified Recoveries, And Implemented Disaster Recovery Strategies
+- Oversaw User Access, Audited Privileges, Maintained Security Compliance
+- Documented Configurations, Procedures, And Incident Management
+- Collaborated With Cross-Functional Teams To Support Complex Projects
+- Maintained Strict Adherence To Slas And Efficient Incident Resolution
 
-> **Key Takeaway:** Developed expertise in managing mission-critical systems, troubleshooting, and enterprise IT operations—skills I’m now applying in DevOps.
+> **Key Takeaway:** Developed Expertise In Managing Mission-Critical Systems, Troubleshooting, And Enterprise IT Operations—Skills I’m Now Applying In Devops.
 
 ---
 
 ## 🚀 Transitioning to DevOps
 
-### 🔧 AWS VPC Setup with Terraform
-- Designed/deployed custom AWS VPCs across multiple AZs using Terraform
-- Configured secure networking—public/private subnets, gateways, routing, and security groups
-- Automated EC2 provisioning and multi-tier communication
+### 🔧 AWS VPC Setup With Terraform
+- Designed/Deployed Custom AWS Vpcs Across Multiple Azs Using Terraform
+- Configured Secure Networking—Public/Private Subnets, Gateways, Routing, And Security Groups
+- Automated EC2 Provisioning And Multi-Tier Communication
 
-### 🛠️ Infrastructure as Code (IaC)
-- Automated AWS resource provisioning (EC2, IAM, S3, EBS, EKS) with Terraform modules
-- Employed variables, outputs, and remote backends for modularity and reusability
-- Simulated infrastructure version control and continuous delivery via pipeline integration
+### 🛠️ Infrastructure As Code (Iac)
+- Automated AWS Resource Provisioning (EC2, IAM, S3, EBS, EKS) With Terraform Modules
+- Employed Variables, Outputs, And Remote Backends For Modularity And Reusability
+- Simulated Infrastructure Version Control And Continuous Delivery Via Pipeline Integration
 
 ### ⚙️ CI/CD Pipeline Automation
-- Built deployment pipelines with Jenkins (freestyle and scripted) and GitHub Actions (YAML workflows)
-- Automated build, test, and deployment of Dockerized applications
-- Integrated with AWS EC2 and Docker Hub for real-world DevOps delivery
+- Built Deployment Pipelines With Jenkins (Freestyle And Scripted) And Github Actions (YAML Workflows)
+- Automated Build, Test, And Deployment Of Dockerized Applications
+- Integrated With AWS EC2 And Docker Hub For Real-World Devops Delivery
 
 ---
 
 ## 🎯 Current Focus
 
-- Solving real-world problems through automation
-- Writing efficient, reusable Terraform modules
-- Automating deployments and infrastructure using CI/CD
-- Building monitoring setups with CloudWatch & Prometheus
-- Deepening expertise in AWS, Docker, Kubernetes, and DevOps best practices
+- Solving Real-World Problems Through Automation
+- Writing Efficient, Reusable Terraform Modules
+- Automating Deployments And Infrastructure Using Ci/Cd
+- Building Monitoring Setups With Cloudwatch & Prometheus
+- Deepening Expertise In Aws, Docker, Kubernetes, And Devops Best Practices
 
 ---
 
@@ -82,11 +82,8 @@ I'm a passionate techie with hands-on experience as an AS400 System Administrato
 ---
 
 <!--
-**Vivekanandha21/Vivekanandha21** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
--->
+**Vivekanandha21/Vivekanandha21** Is A ✨ Special ✨ Repository Because Its README.Md (This File) Appears On Your Github Profile.
 
-<!--
-**Vivekanandha21/Vivekanandha21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
