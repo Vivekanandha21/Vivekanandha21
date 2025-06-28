@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm A Passionate Techie With Hands-On Experience As An AS400 System Administrator At IBM/Kyndryl, Where I Managed Mission-Critical Internal And Finance-Related Projects Focusing On System Stability, Compliance, and Operations. My Journey Has Given Me A Strong Foundation in Enterprise Infrastructure and Monitoring, And I'm Now Channeling That Expertise Into Devops—Bridging The Gap Between Operations and Automation.
+I'm A Passionate Techie With Hands-On Experience As An AS400 System Administrator At IBM/Kyndryl, Where I Managed Mission-Critical Internal And Finance-Related Projects Focusing On System Stability, Compliance, Administration and Operations. My Journey Has Given Me A Strong Foundation in Enterprise Infrastructure and Monitoring, And I'm Now Channeling That Expertise Into Devops—Bridging The Gap Between Operations and Automation.
 
 ---
 
