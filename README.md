@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="devops.gif" alt="DevSecOps Lifecycle" width="600"/>
+</p>
+
 # 👋 Hi, I'm Vivekanandha R!
 
 **B.Tech (IT) graduate | Ex-IBM/Kyndryl AS400 System Administrator | Aspiring DevOps Engineer**
