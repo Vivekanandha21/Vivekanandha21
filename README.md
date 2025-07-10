@@ -29,26 +29,26 @@ I'm A Passionate Techie With Hands-On Experience As An AS400 System Administrato
 
 
 
-> **Key Takeaway:** Developed Expertise In Managing Mission-Critical Systems, Troubleshooting, And Enterprise IT Operations—Skills & I’m Now Applying In Devops.
+> **Key Takeaway:** Transitioned from Enterprise System Administration to DevOps, Applying Years of Operational Excellence in Managing Mission-Critical Systems, Troubleshooting & Enterprise IT Operations to Modern Automation Practices.
 
 ---
 
 ## 🚀 Transitioning to DevOps
 
 ### 🔧 AWS VPC Setup With Terraform
-- Designed/Deployed Custom AWS Vpcs Across Multiple Azs Using Terraform
-- Configured Secure Networking—Public/Private Subnets, Gateways, Routing, And Security Groups
-- Automated EC2 Provisioning And Multi-Tier Communication
+- Designed/Deployed Custom AWS VPCs Across Multiple AZs Using Terraform
+- Configured Secure Networking—Public/Private Subnets, Gateways, Routing & Security Groups
+- Automated EC2 Provisioning & Multi-Tier Communication
 
-### 🛠️ Infrastructure As Code (Iac)
-- Automated AWS Resource Provisioning (EC2, IAM, S3, EBS, EKS) With Terraform Modules
-- Employed Variables, Outputs, And Remote Backends For Modularity And Reusability
-- Simulated Infrastructure Version Control And Continuous Delivery Via Pipeline Integration
+### 🛠️ Infrastructure as Code (Iac)
+- Automated AWS Resource Provisioning (EC2, IAM, S3, EBS, EKS) with Terraform Modules
+- Employed Variables, Outputs & Remote Backends for Modularity & Reusability
+- Simulated Infrastructure Version Control and Continuous Delivery via Pipeline Integration
 
 ### ⚙️ CI/CD Pipeline Automation
-- Built Deployment Pipelines With Jenkins (Freestyle And Scripted) And Github Actions (YAML Workflows)
-- Automated Build, Test, And Deployment Of Dockerized Applications
-- Integrated With AWS EC2 And Docker Hub For Real-World Devops Delivery
+- Built Deployment Pipelines with Jenkins (Freestyle & Scripted) & Github Actions (YAML Workflows)
+- Automated Build, Test, and Deployment of Dockerized Applications
+- Integrated with AWS EC2 And Docker Hub for Real-World Devops Delivery
 
 ---
 
@@ -56,9 +56,9 @@ I'm A Passionate Techie With Hands-On Experience As An AS400 System Administrato
 
 - Solving Real-World Problems Through Automation
 - Writing Efficient, Reusable Terraform Modules
-- Automating Deployments And Infrastructure Using Ci/Cd
-- Building Monitoring Setups With Cloudwatch & Prometheus
-- Deepening Expertise In Aws, Docker, Kubernetes, And Devops Best Practices
+- Automating Deployments and Infrastructure Using CI/CD
+- Building Monitoring Setups with Cloudwatch & Prometheus
+- Deepening Expertise in Aws, Docker, Kubernetes and Devops Best Practices
 
 ---
 <h3 align="left">Languages and Tools:</h3>
