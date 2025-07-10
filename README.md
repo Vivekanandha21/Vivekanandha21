@@ -13,12 +13,11 @@
 I'm A Passionate Techie With Hands-On Experience As An AS400 System Administrator At IBM/Kyndryl, Where I Managed Mission-Critical Internal And Finance-Related Projects Focusing On System Stability, Compliance, Administration and Operations. My Journey Has Given Me A Strong Foundation in Enterprise Infrastructure and Monitoring, And I'm Now Channeling That Expertise Into Devops—Bridging The Gap Between Operations and Automation.
 
 ---
-
 ## 🛠️ Professional Background
 
 **AS400 System Administrator**  
 *IBM / Kyndryl*
-
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 - Monitored COB/EOD Processes, Ensuring Timely And Successful Batch Job Executions
 - Performed Daily Health Checks On CPU, Memory, Disk Space, and Job Queues
 - Applied System Patches, Managed OS Installations, and Conducted Migrations With Minimal Downtime
@@ -30,7 +29,7 @@ I'm A Passionate Techie With Hands-On Experience As An AS400 System Administrato
 
 
 
-> **Key Takeaway:** Developed Expertise In Managing Mission-Critical Systems, Troubleshooting, And Enterprise IT Operations—Skills I’m Now Applying In Devops.
+> **Key Takeaway:** Developed Expertise In Managing Mission-Critical Systems, Troubleshooting, And Enterprise IT Operations—Skills & I’m Now Applying In Devops.
 
 ---
 
@@ -62,6 +61,30 @@ I'm A Passionate Techie With Hands-On Experience As An AS400 System Administrato
 - Deepening Expertise In Aws, Docker, Kubernetes, And Devops Best Practices
 
 ---
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
+  <img src="https://cdn.brightanalytics.eu/wp-content/uploads/IBM-AS400-logo.png" width="30" height="30"/>
+  
+</p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vivekanandha21&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Vivekanandha21&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
 
 ## 🏆 Top Skills
 
